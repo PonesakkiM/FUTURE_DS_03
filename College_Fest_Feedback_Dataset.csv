@@ -1,0 +1,101 @@
+Student_ID,Department,Rating,Feedback,Event_Name,Event_Type,Year,Role,Role_Details,Food_Rating,Organization_Rating,Suggestions,Overall_Satisfaction
+S001,CIVIL,3,"Event was okay, but could be more engaging.",Spring Fest,Cultural,3,Organizer,Team Lead,2,5,Extend the event duration.,3
+S002,IT,3,"Timing was an issue, needs improvement.",Sports Meet,Cultural,1,Participant,Contestant,2,5,Organize events during weekends.,3
+S003,EEE,5,"Great experience overall, would love to attend again.",Techno Fiesta,Workshop,3,Participant,Contestant,5,4,More interactive activities.,5
+S004,ECE,4,"Great experience overall, would love to attend again.",Cultural Night,Cultural,1,Audience,Spectator,4,5,,4
+S005,CIVIL,5,Fantastic cultural night with good performances.,Sports Meet,Funfair,1,Audience,Spectator,4,5,Better sound system.,5
+S006,IT,3,"Wonderful coordination, but more games would be nice.",Techno Fiesta,Cultural,1,Organizer,Coordinator,3,3,Include more competitions.,3
+S007,EEE,5,"Well organized, but food could be better.",Cultural Night,Technical,3,Volunteer,Food Volunteer,4,5,Provide certificates for participants.,5
+S008,CIVIL,4,"Event was okay, but could be more engaging.",Techno Fiesta,Funfair,2,Organizer,Coordinator,4,5,Better seating arrangements.,4
+S009,CIVIL,4,"Timing was an issue, needs improvement.",Cultural Night,Cultural,2,Participant,Performer,4,3,Provide certificates for participants.,4
+S010,CIVIL,3,"Timing was an issue, needs improvement.",Cultural Night,Technical,4,Audience,Supporter,4,3,Organize events during weekends.,3
+S011,IT,3,,Cultural Night,Funfair,4,Audience,Supporter,3,5,Extend the event duration.,4
+S012,CSE,4,Enjoyed the workshops and interactions.,Spring Fest,Technical,2,Audience,Spectator,5,5,Organize events during weekends.,5
+S013,MECH,4,"Wonderful coordination, but more games would be nice.",Art Expo,Cultural,1,,Registration Desk,2,4,More interactive activities.,3
+S014,EEE,4,"Venue was crowded, but activities were fun.",Spring Fest,Sports,2,Participant,Player,3,3,More interactive activities.,3
+S015,IT,3,"Timing was an issue, needs improvement.",Art Expo,Cultural,3,Audience,Spectator,4,4,Improve food quality.,4
+S016,ECE,5,Enjoyed the workshops and interactions.,Art Expo,Cultural,1,Audience,Spectator,3,3,Organize events during weekends.,4
+S017,ECE,5,"Great experience overall, would love to attend again.",Cultural Night,Funfair,4,Organizer,Logistics Manager,3,5,Arrange for more refreshments.,4
+S018,CIVIL,3,"Amazing event, had a lot of fun!",Cultural Night,Workshop,4,Participant,Contestant,2,4,Provide certificates for participants.,3
+S019,IT,5,"Well organized, but food could be better.",Techno Fiesta,Funfair,2,Participant,Contestant,2,3,Improve food quality.,3
+S020,MECH,4,Loved the performances and energy!,Spring Fest,,2,Volunteer,Registration Desk,3,5,Provide certificates for participants.,4
+S021,IT,3,"Wonderful coordination, but more games would be nice.",Sports Meet,Technical,4,Audience,Spectator,2,5,Better sound system.,3
+S022,EEE,4,"Timing was an issue, needs improvement.",Sports Meet,Workshop,1,Participant,Contestant,4,3,Better seating arrangements.,4
+S023,ECE,4,"Well organized, but food could be better.",Art Expo,Workshop,2,Audience,Spectator,5,3,,4
+S024,IT,3,Enjoyed the workshops and interactions.,Spring Fest,Cultural,1,Participant,Contestant,5,4,Better seating arrangements.,4
+S025,EEE,4,"Wonderful coordination, but more games would be nice.",Spring Fest,Technical,4,Participant,Performer,5,4,Organize events during weekends.,4
+S026,CIVIL,3,"Venue was crowded, but activities were fun.",Sports Meet,Technical,2,Volunteer,Food Volunteer,2,5,Improve food quality.,3
+S027,CSE,3,Fantastic cultural night with good performances.,Art Expo,Workshop,2,Participant,Player,3,3,Extend the event duration.,3
+S028,CIVIL,5,"Well organized, but food could be better.",Techno Fiesta,Workshop,1,Organizer,Logistics Manager,2,5,Arrange for more refreshments.,4
+S029,CIVIL,5,"Great experience overall, would love to attend again.",Art Expo,Funfair,3,Volunteer,Food Volunteer,4,3,Arrange for more refreshments.,4
+S030,ECE,4,"Event was okay, but could be more engaging.",Cultural Night,Workshop,3,Participant,Contestant,2,3,Better seating arrangements.,3
+S031,IT,4,Enjoyed the workshops and interactions.,Cultural Night,Technical,3,Participant,Contestant,4,3,Organize events during weekends.,4
+S032,CIVIL,3,"Well organized, but food could be better.",Cultural Night,Funfair,1,Volunteer,Registration Desk,3,4,Extend the event duration.,3
+S033,CIVIL,3,"Great experience overall, would love to attend again.",Art Expo,Technical,3,Volunteer,Registration Desk,4,3,Organize events during weekends.,3
+S034,EEE,3,Loved the performances and energy!,Cultural Night,Cultural,1,Audience,Supporter,2,4,Include more competitions.,3
+S035,ECE,3,"Amazing event, had a lot of fun!",Sports Meet,Funfair,4,Participant,Contestant,3,5,Better sound system.,4
+S036,IT,4,"Venue was crowded, but activities were fun.",Art Expo,Technical,4,Organizer,Team Lead,4,3,Better seating arrangements.,4
+S037,CIVIL,3,,Techno Fiesta,Cultural,3,Audience,Spectator,3,3,Improve food quality.,3
+S038,ECE,5,"Amazing event, had a lot of fun!",Cultural Night,Workshop,2,Volunteer,Food Volunteer,2,4,Add more student volunteers.,4
+S039,ECE,3,"Timing was an issue, needs improvement.",Techno Fiesta,Workshop,3,Volunteer,Food Volunteer,2,5,Arrange for more refreshments.,3
+S040,MECH,5,"Event was okay, but could be more engaging.",,Cultural,3,Volunteer,Registration Desk,5,5,Better sound system.,5
+S041,CSE,3,"Venue was crowded, but activities were fun.",Spring Fest,Sports,2,Volunteer,Food Volunteer,5,4,Arrange for more refreshments.,4
+S042,IT,3,"Event was okay, but could be more engaging.",Art Expo,Cultural,4,Organizer,Coordinator,5,3,Organize events during weekends.,4
+S043,CIVIL,4,"Well organized, but food could be better.",Techno Fiesta,Sports,4,Participant,Player,4,5,Include more competitions.,4
+S044,IT,5,"Wonderful coordination, but more games would be nice.",Cultural Night,,3,Audience,,3,3,Arrange for more refreshments.,4
+S045,CIVIL,4,"Wonderful coordination, but more games would be nice.",Techno Fiesta,Funfair,3,,Spectator,4,3,Provide certificates for participants.,4
+S046,IT,5,Loved the performances and energy!,Cultural Night,Workshop,4,Audience,Spectator,5,5,Extend the event duration.,5
+S047,MECH,5,"Timing was an issue, needs improvement.",Art Expo,Funfair,3,Participant,Contestant,4,3,More interactive activities.,4
+S048,CSE,4,"Wonderful coordination, but more games would be nice.",Spring Fest,Technical,4,Participant,Performer,3,5,Add more student volunteers.,4
+S049,EEE,3,"Event was okay, but could be more engaging.",Techno Fiesta,Technical,1,Participant,Performer,3,5,Add more student volunteers.,4
+S050,CSE,4,Fantastic cultural night with good performances.,Art Expo,Technical,1,Audience,Spectator,4,4,Organize events during weekends.,4
+S051,EEE,4,"Great experience overall, would love to attend again.",Art Expo,Workshop,2,Audience,Supporter,3,5,Organize events during weekends.,4
+S052,EEE,4,"Venue was crowded, but activities were fun.",Techno Fiesta,Sports,4,Participant,Player,3,4,Better sound system.,4
+S053,IT,5,"Timing was an issue, needs improvement.",Spring Fest,Technical,2,Organizer,Coordinator,3,5,Extend the event duration.,4
+S054,EEE,3,Fantastic cultural night with good performances.,Sports Meet,Sports,4,Audience,Spectator,5,4,Improve food quality.,4
+S055,IT,4,"Event was okay, but could be more engaging.",Sports Meet,Workshop,1,Volunteer,Stage Setup,5,5,Provide certificates for participants.,5
+S056,ECE,3,"Wonderful coordination, but more games would be nice.",Sports Meet,Technical,3,Audience,Supporter,5,4,More interactive activities.,4
+S057,EEE,3,Enjoyed the workshops and interactions.,Techno Fiesta,Funfair,1,Audience,Spectator,5,3,More interactive activities.,4
+S058,CSE,4,"Great experience overall, would love to attend again.",Cultural Night,Workshop,3,Organizer,Coordinator,4,4,Arrange for more refreshments.,4
+S059,MECH,3,"Amazing event, had a lot of fun!",Spring Fest,Workshop,1,Participant,Performer,2,5,Improve food quality.,3
+S060,ECE,4,"Timing was an issue, needs improvement.",Techno Fiesta,Cultural,2,Organizer,Team Lead,2,5,Add more student volunteers.,4
+S061,CIVIL,4,"Amazing event, had a lot of fun!",Cultural Night,Sports,2,Participant,Contestant,2,5,Include more competitions.,4
+S062,IT,5,"Great experience overall, would love to attend again.",Sports Meet,Workshop,2,Participant,Player,3,3,Provide certificates for participants.,4
+S063,CSE,3,"Wonderful coordination, but more games would be nice.",Art Expo,Cultural,3,Audience,Supporter,4,3,Add more student volunteers.,3
+S064,CSE,3,"Event was okay, but could be more engaging.",Sports Meet,Sports,4,Organizer,Coordinator,4,5,Add more student volunteers.,4
+S065,EEE,3,"Timing was an issue, needs improvement.",Sports Meet,Funfair,3,Volunteer,Food Volunteer,4,4,Add more student volunteers.,4
+S066,IT,4,"Timing was an issue, needs improvement.",Art Expo,Workshop,3,Participant,Performer,3,4,Better sound system.,4
+S067,MECH,3,"Wonderful coordination, but more games would be nice.",,Sports,3,Participant,Player,2,3,Add more student volunteers.,3
+S068,IT,3,"Wonderful coordination, but more games would be nice.",Techno Fiesta,Workshop,4,Audience,Spectator,4,3,Better seating arrangements.,3
+S069,MECH,5,Enjoyed the workshops and interactions.,Art Expo,Sports,4,Volunteer,Stage Setup,4,4,Include more competitions.,4
+S070,MECH,3,"Timing was an issue, needs improvement.",Cultural Night,Technical,1,Organizer,Coordinator,3,3,Add more student volunteers.,3
+S071,MECH,4,Loved the performances and energy!,Art Expo,Funfair,3,Participant,Contestant,3,4,Include more competitions.,4
+S072,CSE,5,,Art Expo,Technical,3,Participant,Contestant,4,5,Add more student volunteers.,5
+S073,CSE,4,"Amazing event, had a lot of fun!",Spring Fest,Funfair,3,Audience,Supporter,4,3,Include more competitions.,4
+S074,EEE,5,Loved the performances and energy!,Spring Fest,Cultural,4,Audience,Spectator,2,3,Provide certificates for participants.,3
+S075,MECH,5,Enjoyed the workshops and interactions.,Spring Fest,Technical,1,Audience,Spectator,5,4,Include more competitions.,5
+S076,IT,5,"Well organized, but food could be better.",Sports Meet,Sports,1,Participant,Contestant,3,4,More interactive activities.,4
+S077,ECE,4,Fantastic cultural night with good performances.,Techno Fiesta,Funfair,1,Organizer,Team Lead,5,5,Add more student volunteers.,5
+S078,MECH,4,"Timing was an issue, needs improvement.",Spring Fest,Technical,3,Volunteer,Registration Desk,2,5,Include more competitions.,4
+S079,CIVIL,3,Loved the performances and energy!,Art Expo,Technical,4,Participant,Player,3,4,Extend the event duration.,3
+S080,CSE,4,"Wonderful coordination, but more games would be nice.",Techno Fiesta,Sports,3,Audience,Spectator,4,5,Include more competitions.,4
+S081,IT,3,"Venue was crowded, but activities were fun.",Art Expo,Workshop,4,Participant,Player,5,5,Provide certificates for participants.,4
+S082,MECH,4,Enjoyed the workshops and interactions.,Spring Fest,Cultural,2,Participant,Player,2,3,Organize events during weekends.,3
+S083,CIVIL,3,"Wonderful coordination, but more games would be nice.",Sports Meet,Sports,2,Audience,Supporter,5,4,Better sound system.,4
+S084,MECH,4,"Amazing event, had a lot of fun!",Spring Fest,Technical,3,Audience,Supporter,5,5,Add more student volunteers.,5
+S085,CSE,5,"Event was okay, but could be more engaging.",Cultural Night,Sports,3,Participant,Performer,2,5,Add more student volunteers.,4
+S086,EEE,3,"Event was okay, but could be more engaging.",Spring Fest,Technical,3,Audience,Supporter,3,4,More interactive activities.,3
+S087,MECH,5,Loved the performances and energy!,Sports Meet,Workshop,1,Participant,Player,3,5,Include more competitions.,4
+S088,IT,3,Loved the performances and energy!,,Funfair,4,Participant,Contestant,5,3,Add more student volunteers.,4
+S089,CIVIL,4,"Event was okay, but could be more engaging.",,Funfair,3,Audience,Supporter,3,4,More interactive activities.,4
+S090,EEE,4,"Great experience overall, would love to attend again.",Techno Fiesta,Funfair,2,Participant,Performer,4,5,Improve food quality.,4
+S091,MECH,5,"Venue was crowded, but activities were fun.",Cultural Night,Funfair,4,Organizer,Coordinator,5,4,Organize events during weekends.,5
+S092,IT,3,"Wonderful coordination, but more games would be nice.",Sports Meet,Workshop,3,Organizer,Logistics Manager,5,3,Improve food quality.,4
+S093,MECH,3,Fantastic cultural night with good performances.,Sports Meet,Workshop,4,Organizer,Coordinator,3,5,Better sound system.,4
+S094,CSE,3,Loved the performances and energy!,Sports Meet,Cultural,4,,Player,5,5,Extend the event duration.,4
+S095,EEE,5,Enjoyed the workshops and interactions.,Cultural Night,Sports,4,Participant,Performer,5,4,Organize events during weekends.,5
+S096,CSE,5,"Well organized, but food could be better.",Art Expo,Cultural,2,Volunteer,Food Volunteer,2,4,Extend the event duration.,4
+S097,EEE,3,"Venue was crowded, but activities were fun.",Techno Fiesta,Sports,1,Participant,Performer,4,4,Arrange for more refreshments.,4
+S098,ECE,3,"Wonderful coordination, but more games would be nice.",Techno Fiesta,Funfair,4,Organizer,,2,5,,3
+S099,CIVIL,5,,Techno Fiesta,Workshop,2,Organizer,Coordinator,4,4,Improve food quality.,4
+S100,EEE,4,"Wonderful coordination, but more games would be nice.",Cultural Night,Funfair,2,Participant,Performer,4,5,Include more competitions.,4
